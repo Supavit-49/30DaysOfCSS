@@ -36,7 +36,7 @@ ul li:hover span {
 }
 
 ul li:nth-child(1) span {
-  background: #4064AC;
+  background: yellow;
 }
 
 ul li:nth-child(2) span {
